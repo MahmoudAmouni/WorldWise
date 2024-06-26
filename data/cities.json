@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "c3f2",
+      "cityName": "Timbuktu",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2024-06-19T11:53:09.922Z",
+      "notes": "",
+      "position": {
+        "lat": "22.372472087932756",
+        "lng": "-2.355109944098666"
+      }
+    },
+    {
+      "id": "683d",
+      "cityName": "Mtarnagha",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-06-19T12:16:40.516Z",
+      "notes": "",
+      "position": {
+        "lat": "33.846215945392196",
+        "lng": "-4.63797833361858"
+      }
+    },
+    {
+      "id": "c6d4",
+      "cityName": "Oliete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-19T13:04:43.820Z",
+      "notes": "",
+      "position": {
+        "lat": "41.0269296312947",
+        "lng": "-0.6372070312500001"
+      }
+    },
+    {
+      "id": "583f",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-20T07:09:37.483Z",
+      "notes": "",
+      "position": {
+        "lat": "48.83415099698305",
+        "lng": "2.4169921875000004"
+      }
+    },
+    {
+      "id": "3ca7",
+      "cityName": "Pedrola",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-20T09:58:39.455Z",
+      "notes": "",
+      "position": {
+        "lat": "41.7684652365402",
+        "lng": "-1.2084960937500002"
+      }
+    },
+    {
+      "id": "7dbd",
+      "cityName": "Chingueṭṭi",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2024-06-21T06:58:35.745Z",
+      "notes": "",
+      "position": {
+        "lat": "20.203425944386133",
+        "lng": "-8.854980468750002"
+      }
+    }
+  ]
+}
